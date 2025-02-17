@@ -1,0 +1,18 @@
+1.Create a Python program to find the sum and average of all elements in a list.
+2.Reverse a List Without Using reverse() Function.
+3.Check if a Specific Element Exists in a List.
+4.Find the Second Largest and Second Smallest Numbers in a List.
+5.Remove All Duplicate Elements While Maintaining the Order.
+6.Sort a List of Integers in Descending Order Without Using sort() Method.
+7.Merge Two Lists and Remove Duplicates.
+8.Rotate a List to the Left by n Positions.
+9.Create a List of Squares of Even Numbers from 1 to 20.
+10.Find the Common Elements Between Two Lists.
+
+
+
+
+
+
+
+
