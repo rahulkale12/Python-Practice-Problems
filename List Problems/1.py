@@ -1,4 +1,4 @@
-#Create a Python program to find the sum and average of all elements in a list.
+#1.Create a Python program to find the sum and average of all elements in a list.
 a = [10,20,30,40,50]
 b = sum(a)
 c = len(a)

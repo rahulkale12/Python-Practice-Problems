@@ -1,4 +1,4 @@
-#Reverse a List Without Using reverse() Function:
+#2.Reverse a List Without Using reverse() Function:
 
 a = [1,2,4,2,5]
 print(a[::-1])
