@@ -1,0 +1,10 @@
+1.Create a Set and Perform Union, Intersection, and Difference Operations with Another Set:
+2.Check if One Set is a Subset of Another:
+3.Remove All Duplicates from a List Using a Set:
+4.Add and Remove Elements from a Set Dynamically Using Input from the User:
+5.Find the Symmetric Difference Between Two Sets:
+6.Check if Two Sets Are Disjoint:
+7.Convert a String Into a Set of Unique Characters:
+8.Find Common Elements in Three Sets:
+9.Check if a Set Contains a Specific Element:
+10.Remove a Random Element from a Set:
