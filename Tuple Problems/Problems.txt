@@ -1,0 +1,10 @@
+1.Create a Tuple and Access Its Elements Using Both Positive and Negative Indices:
+2.Count the Occurrences of an Element in a Tuple:
+3.Check if a Tuple Contains a Specific Value:
+4.Convert a Tuple Into a List and Vice Versa:
+5.Find the Index of a Specific Value in a Tuple:
+6.Unpack a Tuple Into Variables and Print Each Variable:
+7.Merge Two Tuples and Sort the Resulting Tuple:
+8.Find the Maximum and Minimum Values in a Tuple:
+9.Convert a Tuple of Strings Into a Single Concatenated String:
+10.Check if Two Tuples Have Any Common Elements:
