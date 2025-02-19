@@ -1,0 +1,10 @@
+1.Check if a String is a Palindrome:
+2.Count the Number of Vowels and Consonants in a String:
+3.Reverse a String Without Using the reversed() Function:
+4.Replace All Occurrences of a Substring in a String with Another Substring:
+5.Split a String into a List of Words and Join It Back into a Single String with Spaces:
+6.Check if a String Contains Only Digits:
+7.Find the First Non-Repeating Character in a String:
+8.Convert a String to Title Case Without Using title():
+9.Count the Occurrences of Each Word in a Given String:
+10.Check if Two Strings Are Anagrams:
