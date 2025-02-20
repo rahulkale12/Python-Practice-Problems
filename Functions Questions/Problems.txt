@@ -1,0 +1,15 @@
+1.Write a Function to Calculate the Factorial of a Number:
+2.Write a Function to Check a number is Prime or Not:
+3.Write a Function to Find the Greatest Common Divisor (GCD) of Two Numbers:
+4.Write a Function to Find the Lowest Common Multiple (LCM) of Two Numbers:
+5.Create a Function That Accepts a List and Returns the Largest Element in It:
+6.Write a Function to Calculate the Fibonacci Sequence Up to n Terms:
+7.Create a Function to Count the Number of Words in a String:
+8.Write a Function That Returns the Sum of All Even Numbers in a List:
+9.Create a Function That Takes a String as Input and Returns It Reversed:
+10.Swap All words in a string except middle one.
+11.Write a Function to Check if a Year is a Leap Year:
+12.Create a Function That Returns the n-th Power of a Number:
+13.Create a function to check if number is Armstrong number or not.
+14.Create a function to check if a number is Perfect or Not:
+
