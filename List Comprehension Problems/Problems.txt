@@ -1,0 +1,10 @@
+1.Generate a List of Squares of Numbers from 1 to 20:
+2.Create a List of All Even Numbers Between 1 and 50:
+3.Generate a List of the First Letter of Each Word in a Given String: "Hello world from Python":
+4.Create a New List with Only the Positive Numbers from a Given List of Integers: [-10, 15, -20, 30, -5]:
+5.Flatten a 2D List into a 1D List:
+6.Create a List of Tuples Where Each Tuple Contains a Number and Its Square for Numbers from 1 to 10:
+7.Filter Out All Vowels from a Given String:
+8.Generate a List of Numbers from 1 to 100 That Are Divisible by Both 3 and 5:
+9.Convert a List of Strings to Uppercase:
+10.Generate a 3x3 Matrix Where Each Element is the Product of Its Row and Column Indices (Nested List Comprehension):
