@@ -1,9 +1,11 @@
 #11.Create a Lambda Function to check year is leap or not:
 
-# leap = [lambda year : (year%4== 0 and year%100!=0) or (year %400==0)]
-# print(leap(2024))
+
+leap = [lambda year : (year%4== 0 and year%100!=0) or (year %400==0)]
+print(leap(2024))
 
 
+#second way using both list comprehension and lambda 
 
 years = [2000, 2004, 1900, 2024, 2023]
 
