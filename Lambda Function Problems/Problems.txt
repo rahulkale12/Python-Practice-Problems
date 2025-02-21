@@ -1,0 +1,11 @@
+1.Write a Lambda Function to Find the Square of a Number:
+2.Create a Lambda Function to Check if a Given String Starts with a Vowel:
+3.Write a Lambda Function to Add Two Numbers:
+4.Use a Lambda Function with filter() to Filter Out All Even Numbers from a List:
+5.Write a Lambda Function with map() to Convert a List of Strings to Uppercase:
+6.Use a Lambda Function to Sort a List of Tuples by the Second Element:
+7.Write a Lambda Function to Find the Maximum of Three Numbers:
+8.Use a Lambda Function with reduce() to Find the Product of All Elements in a List:
+9.Write a Lambda Function to Check if a Number Is Divisible by Both 3 and 5:
+10.Create a Lambda Function That Takes a String and Returns the String Reversed:
+11. Create a Lambda Function to check year is leap or not:
