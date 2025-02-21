@@ -1,0 +1,10 @@
+1.Create a Dictionary Where the Keys Are Numbers from 1 to 10 and the Values Are Their Squares:
+2.Convert a List of Words into a Dictionary Where the Keys Are the Words and the Values Are Their Lengths:
+3.Write a Dictionary Comprehension to Filter a Dictionary, Keeping Only the Items Where the Value Is Greater Than 10:
+4.Create a Dictionary That Maps Each Character in a String to Its Frequency:
+5.Write a Dictionary Comprehension to Swap Keys and Values of a Dictionary:
+6.Generate a Dictionary from a List of Numbers Where the Key Is the Number and the Value Is "Even" or "Odd":
+7.Create a Nested Dictionary Where the Outer Keys Are Numbers from 1 to 3 and the Inner Dictionary Contains Their Square and Cube:
+8.Write a Dictionary Comprehension to Filter Out All Key-Value Pairs in a Dictionary Where the Key Is a Vowel:
+9.Create a Dictionary Where the Keys Are Words in a String and the Values Are Their Reverse:
+10.Convert Two Lists into a Dictionary Using Comprehension:
