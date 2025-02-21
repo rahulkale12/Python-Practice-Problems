@@ -1,0 +1,10 @@
+1.Use filter() to Extract All Even Numbers from a List of Integers [1, 2, 3, 4, 5, 6]:
+2.Write a Program Using filter() to Find All Strings in a List That Start with the Letter 'A': ["apple", "banana", "avocado", "grape"]:
+3.Use filter() to Remove All Numbers Less Than 10 from a List: [5, 12, 7, 20, 30]:
+4.Write a Program Using filter() to Filter Out All Non-Vowel Characters from a String "hello world":
+5.Use filter() to Find All Prime Numbers in a List of Integers [2, 3, 4, 5, 6, 7, 8, 9, 10]:
+6.Write a Program Using filter() to Extract All Words in a List That Have More Than 5 Characters: ["python", "map", "filter", "reduce"]:
+7.Use filter() to Keep Only Positive Numbers from a List: [-10, 20, -30, 40, 0, 50]:
+8.Write a Program Using filter() to Find All Palindrome Strings in a List: ["level", "python", "radar", "java"]:
+9.Use filter() to Remove All Empty Strings from a List: ["python", "", "filter", "reduce", ""]:
+10.Write a Program Using filter() to Find All Numbers in a List That Are Divisible by 3: [3, 5, 9, 12, 14, 18]:

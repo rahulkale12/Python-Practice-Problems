@@ -31,3 +31,24 @@ def Prime(n):
 
 n = 10
 print(Prime(n))
+
+
+#optimized Approach
+
+def Prime(n):
+    primes = []
+
+    for num in range(2, n+1):
+        is_Prime = True
+
+        for i in range(2, int(num**0.5+1)):   #it works as sqrt(n) checks upto to sqrt(n)
+            if num%i ==0:
+                is_Prime= False
+                break
+        if is_Prime:
+            primes.append(num)
+
+    return primes
+
+n = 10
+print(Prime(n))

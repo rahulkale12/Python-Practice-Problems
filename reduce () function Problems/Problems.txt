@@ -1,0 +1,10 @@
+1.Use reduce() to Find the Sum of All Numbers in a List: [1, 2, 3, 4, 5]:
+2.Write a Program Using reduce() to Find the Product of All Elements in a List: [2, 3, 4]:
+3.Use reduce() to Find the Largest Number in a List: [10, 20, 5, 40, 30]:
+4.Write a Program Using reduce() to Find the Smallest Number in a List: [15, 8, 22, 3, 9]:
+5.Use reduce() to Concatenate a List of Strings into a Single String: ["hello", "world", "python"]:
+6.Write a Program Using reduce() to Calculate the Factorial of a Number Using a List: [1, 2, 3, 4, 5] for 5!:   
+7.Use reduce() to Calculate the GCD (Greatest Common Divisor) of a List of Numbers: [48, 60, 72]:
+8.Write a Program Using reduce() to Count the Total Number of Characters in a List of Strings: ["python", "reduce", "example"]:
+9.Use reduce() to Generate the Cumulative Sum of a List of Numbers: [1, 2, 3, 4, 5]:
+10.Write a Program Using reduce() to Combine a List of Tuples by Summing Their Corresponding Elements: [(1, 2), (3, 4), (5, 6)]:
