@@ -1,0 +1,9 @@
+1.Check if a Number is Positive, Negative, or Zero:
+2.Find the Largest Among Three Numbers Using Nested If-Else:
+3.Check if a Number is Divisible by Both 3 and 5:
+4.Calculate the Grade of a Student Based on Their Marks:
+5.Check if a String Starts with a Vowel:
+6.Find if a Number is Even or Odd:
+7.Classify a Person’s Age into Categories (Child, Teenager, Adult, Senior):
+8.Check if a Given Number is in a Specific Range:
+9.Compare Two Numbers and Print Whether They Are Equal, Greater, or Lesser:
