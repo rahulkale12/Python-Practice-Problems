@@ -1,0 +1,10 @@
+1.Use map() to Convert a List of Integers [1, 2, 3, 4, 5] into Their Squares:
+2.Write a Program Using map() to Capitalize All the Strings in a List: ["python", "django", "aws"]:
+3.Use map() to Convert a List of Temperatures in Celsius [0, 20, 37, 100] to Fahrenheit:
+4.Write a Program Using map() to Compute the Length of Each Word in a List: ["apple", "banana", "cherry"]:
+5.Use map() to Add 5 to Each Number in a List of Integers [10, 20, 30, 40]:
+6.Write a Program Using map() to Replace Every Vowel in a List of Strings with '*': ["hello", "world", "python"]:
+7.Use map() to Combine Two Lists Element-Wise into a List of Tuples: [1, 2, 3] and ["a", "b", "c"]:
+8.Write a Program Using map() to Multiply Corresponding Elements of Two Lists: [1, 2, 3] and [4, 5, 6]:
+9.Use map() to Convert a List of Binary Strings into Integers: ["101", "111", "1001"]:
+10.Write a Program Using map() to Reverse Each String in a List: ["python", "map", "example"]:
