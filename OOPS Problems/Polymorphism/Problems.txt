@@ -1,0 +1,2 @@
+1.Method Overriding: Create a Shape class with a method area(). Override it in Circle and Rectangle.
+2. Operator Overloading : Overload the + operator for a Vector class.

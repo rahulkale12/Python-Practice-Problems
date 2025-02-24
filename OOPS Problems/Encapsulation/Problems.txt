@@ -1,0 +1,11 @@
+1.Create a BankAccount class with a private attribute _balance. Provide methods deposit(), withdraw(), and get_balance() to access it safely.
+
+
+2.Create a Laptop class with the following:
+
+A public attribute brand.
+A protected attribute _processor.
+A private attribute __price.
+A method display_info() that prints all attributes.
+A method set_price(new_price) to update the private attribute __price.
+Create a subclass GamingLaptop that tries to access all attributes and override display_info().

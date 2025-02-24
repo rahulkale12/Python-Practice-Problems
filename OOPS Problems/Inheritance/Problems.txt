@@ -1,0 +1,5 @@
+1.Single Inheritance: Create a base class Person with attributes name and age. Create a Student class that inherits Person and adds student_id.
+2.Multiple Inheritance : Create a Teacher class with teach() method and Researcher class with research(). Create a Professor class that inherits from both.
+3.Multilevel Inheritance : Create a base class Vehicle, a subclass Car, and a subclass ElectricCar inheriting from Car.
+4.Hierarchical Inheritance : Create a base class Animal and derive Dog and Cat from it.
+5.Hybrid Inheritance : Demonstrate a mix of single and multiple inheritance.

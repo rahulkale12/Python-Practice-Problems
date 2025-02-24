@@ -1,0 +1,1 @@
+1.Create a Car class with attributes brand, model, and year. Add a method display_info() to print car details.
