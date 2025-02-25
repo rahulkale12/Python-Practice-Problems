@@ -6,3 +6,5 @@
 6.star pattern = pyrmaid 2
 7.start pattern = upside down pyramid
 8.start pattern = upside down pyramid 2
+9.start pattern = right angle with even  and odd
+10.start  pattern = Pyramid with even and odd
