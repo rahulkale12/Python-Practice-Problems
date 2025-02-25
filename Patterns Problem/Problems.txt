@@ -1,0 +1,8 @@
+1.star pattern = right angle triangle
+2.star pattern = upside down right angle triangle
+3.star pattern = left angle triangle
+4.star pattern = upside down left angle triangle
+5.star pattern = pyramid 
+6.star pattern = pyrmaid 2
+7.start pattern = upside down pyramid
+8.start pattern = upside down pyramid 2
