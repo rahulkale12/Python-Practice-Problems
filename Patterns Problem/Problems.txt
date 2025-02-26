@@ -12,3 +12,5 @@
 12. Number Pattern = upside down right angle triangle
 13. Number Pattern = left angle triangle 
 14. Number Pattern =  upside down left angle triangle
+15. Number Pattern = pyramid
+16. Number pattern = upside down pyramid 
