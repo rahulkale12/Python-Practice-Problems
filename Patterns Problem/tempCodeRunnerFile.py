@@ -1,8 +1,7 @@
-n = 8
-# for i in range(n):
+n = 5
+# for i in range(n+1):
 #     for j in range(n-i):
-#         print(" ",end = "")
+#         print(" ",end = " ")
 #     for j in range(i):
-#         if i%2==0:
-#             print("*",end = " ")
+#         print(i,end = " ")
 #     print()

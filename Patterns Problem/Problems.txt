@@ -8,3 +8,7 @@
 8.start pattern = upside down pyramid 2
 9.start pattern = right angle with even  and odd
 10.start  pattern = Pyramid with even and odd
+11. Number Pattern = right angle triangle
+12. Number Pattern = upside down right angle triangle
+13. Number Pattern = left angle triangle 
+14. Number Pattern =  upside down left angle triangle
