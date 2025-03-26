@@ -1,0 +1,10 @@
+1. Counting unique Vowels in a given string.
+2. Counting Consonants in given string.
+3. Counting the number of occurence of a character in a string.
+4. Find the maximum number in a list.
+5. Find the minimum number in a list.
+6. Find the factorial of a nth number.
+7. Find the prime number of nth number.
+8. Print Prime numbers in a nth range.
+9. Find fibonacci of nth number.
+10. Find fibonacci series in given nth range.
